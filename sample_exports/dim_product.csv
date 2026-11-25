@@ -1,0 +1,21 @@
+product_id,sku,product_name,category,unit_price
+1,SKU-001,Wireless Earbuds,Electronics,2499.0
+2,SKU-002,Smart Watch,Electronics,4999.0
+3,SKU-003,Power Bank 10000mAh,Electronics,1299.0
+4,SKU-004,Bluetooth Speaker,Electronics,1999.0
+5,SKU-005,Non-stick Pan,Home & Kitchen,899.0
+6,SKU-006,Electric Kettle,Home & Kitchen,1199.0
+7,SKU-007,Dinner Set,Home & Kitchen,2199.0
+8,SKU-008,Storage Containers,Home & Kitchen,499.0
+9,SKU-009,Cotton T-Shirt,Fashion,599.0
+10,SKU-010,Denim Jeans,Fashion,1499.0
+11,SKU-011,Running Shoes,Fashion,2799.0
+12,SKU-012,Backpack,Fashion,1099.0
+13,SKU-013,Basmati Rice 5kg,Grocery,649.0
+14,SKU-014,Green Tea 100 bags,Grocery,349.0
+15,SKU-015,Dry Fruits Mix 1kg,Grocery,999.0
+16,SKU-016,Olive Oil 1L,Grocery,799.0
+17,SKU-017,Face Wash,Beauty,249.0
+18,SKU-018,Sunscreen SPF50,Beauty,449.0
+19,SKU-019,Hair Oil,Beauty,199.0
+20,SKU-020,Perfume,Beauty,1599.0

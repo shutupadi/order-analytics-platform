@@ -1,0 +1,21 @@
+product_id,quantity_on_hand,reorder_level,sku,name,needs_reorder,snapshot_date
+1,64,20,SKU-001,Wireless Earbuds,False,2026-11-25
+2,41,20,SKU-002,Smart Watch,False,2026-11-25
+3,0,20,SKU-003,Power Bank 10000mAh,True,2026-11-25
+4,15,20,SKU-004,Bluetooth Speaker,True,2026-11-25
+5,13,20,SKU-005,Non-stick Pan,True,2026-11-25
+6,29,20,SKU-006,Electric Kettle,False,2026-11-25
+7,62,20,SKU-007,Dinner Set,False,2026-11-25
+8,24,20,SKU-008,Storage Containers,False,2026-11-25
+9,27,20,SKU-009,Cotton T-Shirt,False,2026-11-25
+10,0,20,SKU-010,Denim Jeans,True,2026-11-25
+11,33,20,SKU-011,Running Shoes,False,2026-11-25
+12,38,20,SKU-012,Backpack,False,2026-11-25
+13,65,20,SKU-013,Basmati Rice 5kg,False,2026-11-25
+14,35,20,SKU-014,Green Tea 100 bags,False,2026-11-25
+15,8,20,SKU-015,Dry Fruits Mix 1kg,True,2026-11-25
+16,48,20,SKU-016,Olive Oil 1L,False,2026-11-25
+17,38,20,SKU-017,Face Wash,False,2026-11-25
+18,35,20,SKU-018,Sunscreen SPF50,False,2026-11-25
+19,44,20,SKU-019,Hair Oil,False,2026-11-25
+20,16,20,SKU-020,Perfume,True,2026-11-25
